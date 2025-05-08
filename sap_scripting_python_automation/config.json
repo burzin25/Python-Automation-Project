@@ -1,0 +1,34 @@
+{
+    "outlook": {
+        "account_name": "Burzin.Wadia@wieland.com",
+        "inbox_name": "Inbox",
+        "folder_keywords": [
+            "Labor",
+            "707"
+        ],
+        "email_subject": "Labor Detail 707 Building - Romero Patino",
+        "sender_email": "system@asureforce.net"
+    },
+    "excel_file_path": "Daily Production Dashboard.xlsx",
+    "sheets": {
+        "dc1_lbs_stock": "DC1 lbs. to  Stock",
+        "delivery_report": "Delivery Report",
+        "hf_fin_otd": "HF Fin OTD",
+        "hf_lbs_stock": "HF lbs. to stock",
+        "labor_details": "Labor Details",
+        "stocks_report": "Stocks Report",
+        "hf_labor_details": "Labor Details",
+        "sheet_lf_finish_thru_lbs": "LF Finishing Throughput (lbs)",
+        "sheet_lf_finning_thru_m": "LF Finning Throughput (m)",
+        "sheet_lf_ship_qty": "LF Shipped Qty",
+        "sheet_lf_tot_ord_finish": "LF Total Orders Finished",
+        "sheet_lf_mp_1": "MP 1",
+        "sheet_lf_mp_2": "MP 2",
+        "sheet_lf_mp_3": "MP 3",
+        "sheet_lf_mp_4": "MP 4",
+	"sheet_lf_mp_4": "MP 5",
+        "sheet_mtd_lf_strgt_lgt_io_fact": "MTD LF straight length IO Fact",
+        "sheet_trgt_dc1_thruput_lbs": "Target DC1 Throughput (lbs.)",
+        "sheet_trgt_hf_thruput_lbs": "Target HF Throughput (lbs)"
+    }
+}
